@@ -1,6 +1,6 @@
 # Puzzles
 
-A collection of probability, combinatorics, graph, and algorithm puzzles solved with short explanations and Python notebooks.
+A collection of probability, combinatorics, graph, and algorithm puzzles that I found interesting solved with short explanations and Python notebooks.
 
 ## Run the notebooks
 
